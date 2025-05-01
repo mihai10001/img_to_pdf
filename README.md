@@ -14,8 +14,8 @@ Generated this app in 10 minutes (vibe coding) using [v0](https://v0.dev), with 
 
 1. Clone the repository, install dependencies and run locally:
    ```bash
-   git clone https://github.com/your-username/image-to-pdf.git
-   cd image-to-pdf
+   git clone https://github.com/mihai10001/img-to-pdf.git
+   cd img-to-pdf
    npm install
    npm run dev
    ```
